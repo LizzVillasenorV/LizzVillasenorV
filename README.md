@@ -1,9 +1,9 @@
-👋 Hola me llamo Lizbet (si, va sin H al final) pero todos me dicen Lizz, siempre.
-- 👀 I’m interested in ...
-- 🌱 Estoy aprendiendo a comunicarme mejor en Inglés.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+👋 Hola me llamo Lizbet (si, va sin H al final) pero todos me dicen Lizz, siempre. 💚
+👀 Estoy interesada en adquirir nuevas habilidades tecnicas.
+🌱 Estoy aprendiendo a comunicarme mejor en Inglés.
+
+
+
 
 <!---
 LizzVillasenorV/LizzVillasenorV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
