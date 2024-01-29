@@ -1,6 +1,6 @@
 # 👋 Hola me llamo Lizbet pero, siempre me dicen Lizz. 💚  #
 
-👀 Estoy interesada en adquirir nuevas habilidades tecnicas.  
+👀 Estoy interesada en adquirir nuevas habilidades técnicas.  
 🌱 Estoy aprendiendo a comunicarme mejor en Inglés.
 
 
