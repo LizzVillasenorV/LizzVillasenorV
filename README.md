@@ -4,7 +4,7 @@
 🌱 Estoy aprendiendo a comunicarme mejor en Inglés.  
 
 > [!NOTE]
->_⬇️ Te invito a que le des un vistazo a mi Portafolio **"portaLizz"** ⬇️_
+>_⬇️ Te invito a que le des un vistazo a mi Portafolio **"portaLizz"** ⬇️_ </h3>
 
 <h3 align="left">Si deseas conocerme más:</h3>
 <p align="left">
