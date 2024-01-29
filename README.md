@@ -1,5 +1,5 @@
--👋 Hola me llamo Lizbet (si, va sin H al final) pero todos me dicen Lizz, siempre. 💚
--👀 Estoy interesada en adquirir nuevas habilidades tecnicas.
+-👋 Hola me llamo Lizbet (si, va sin H al final) pero todos me dicen Lizz, siempre. 💚  
+-👀 Estoy interesada en adquirir nuevas habilidades tecnicas.  
 -🌱 Estoy aprendiendo a comunicarme mejor en Inglés.
 
 
