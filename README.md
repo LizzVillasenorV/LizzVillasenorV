@@ -6,7 +6,7 @@
 > [!NOTE]
 >_⬇️ Te invito a que le des un vistazo a mi Portafolio **"portaLizz"** ⬇️_ </h3>
 
-<h3 align="left">Si deseas conocerme más:</h3>
+<h3 align="left">Te dejo estas dos redes por si deseas conocerme más:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lizbetvillasenorvinagre-lizz/" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lizbetvillasenorvinagre-lizz/" height="30" width="40" /></a>
