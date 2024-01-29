@@ -14,7 +14,7 @@ src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-bl
 </p>  
 
 > [!NOTE]
->_⬇️ Te invito a que le des un vistazo a mi Portafolio **"portaLizz"** ⬇️_ </h3>
+>_<img align="center" src="https://indiraferrersoprano.files.wordpress.com/2020/05/flecha-abajo-gif-13.gif" alt="https://gifflecha" height="20" width="20"/> Te invito a que le des un vistazo a mi Portafolio **"portaLizz"**  </a> <img align="center" src="https://indiraferrersoprano.files.wordpress.com/2020/05/flecha-abajo-gif-13.gif" alt="https://gifflecha" height="20" width="20" /></a></h3>_
 
 <!---
 LizzVillasenorV/LizzVillasenorV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
