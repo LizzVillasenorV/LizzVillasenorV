@@ -2,9 +2,7 @@
 
 👀 Estoy interesada en adquirir nuevas habilidades técnicas.  
 🌱 Estoy aprendiendo a comunicarme mejor en Inglés.  
-
-> [!NOTE]
->_⬇️ Te invito a que le des un vistazo a mi Portafolio **"portaLizz"** ⬇️_ </h3>
+  
 
 <h3 align="left">Te dejo estas dos redes por si deseas conocerme más:</h3>
 <p align="left">
@@ -13,7 +11,11 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <a href="https://x.com/liz_villasenor?t=8PouQ_MCQeD4nbR8ylM5eQ&s=08" target="blank"><img align="center"<img align="center"
 src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="https://x.com/liz_villasenor?t=8PouQ_MCQeD4nbR8ylM5eQ&s=08" height="30" width="40" /></a>
 </p>      
-</p> 
+</p>  
+
+> [!NOTE]
+>_⬇️ Te invito a que le des un vistazo a mi Portafolio **"portaLizz"** ⬇️_ </h3>
+
 <!---
 LizzVillasenorV/LizzVillasenorV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
