@@ -14,7 +14,7 @@ src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-bl
 </p>  
 
 > [!NOTE]
->_Te invito a que le des un vistazo a mi <a href="https://lizzvillasenorv.github.io/" target="blank"> Portafolio </a></h3>_
+>_Te invito a que le des un vistazo a mi <a href="https://lizzvillasenorv.github.io/" target="_blank" rel="noopener"> Portafolio </a></h3>_
 
 <!---
 LizzVillasenorV/LizzVillasenorV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
